@@ -38,10 +38,12 @@ Our team loves coffee, brainstorming sessions, and late-night coding jams. Many 
 ⛓️‍💥 Connect With Us ⛓️‍💥
 
 Stay connected with us on social media:
-	•	Twitter: [THYDU𝕏](https://x.com/thyduxcoin?s=21)
-	•	Discord: Join our community
+	
+ •	Twitter: [THYDU𝕏](https://x.com/thyduxcoin?s=21)                    
 
-               🧙‍♀️🧙‍♂️🧙
+  •        Discord: Join our community.        
+
+                 🧙‍♀️🧙‍♂️🧙
  ![image](https://github.com/user-attachments/assets/82bd5d18-4280-46ab-a86c-53f12382dcae)
 
 🎗️Remember
