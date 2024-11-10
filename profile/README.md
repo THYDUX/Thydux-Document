@@ -45,6 +45,9 @@ Stay connected with us on social media:
   •        Discord: Join our community.        
 
                  🧙‍♀️🧙‍♂️🧙
+		 
+ [DUX](https://tiplink.io/blinks/donate?dest=GFtBQfYqt9EbKLYaW6FCMRn33Dwf6gpezuW4uNTsvZj2)
+ 
  ![image](https://github.com/user-attachments/assets/82bd5d18-4280-46ab-a86c-53f12382dcae)
 
 🎗️Remember
