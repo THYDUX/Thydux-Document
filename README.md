@@ -1,4 +1,4 @@
-# THYDU𝕏-HTML/html-thydux
+# THYDUX-HTML/html-thydux
 
 ## Overview
 THYDUX-HTML/html-thydux is a lightweight and modern HTML framework for building professional and responsive web pages. This repository provides ready-to-use templates, pre-built components, and a streamlined approach for web development, focusing on simplicity, performance, and adaptability.
