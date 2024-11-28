@@ -1,6 +1,5 @@
-[![Auto Assign](https://github.com/THYDUX-COIN/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/THYDUX-COIN/actions/workflows/auto-assign.yml)
-
-[![Proof HTML](https://github.com/THYDUX-COIN/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/THYDUX-COIN/actions/workflows/auto-assign.yml)
+![Auto Assign](https://github.com/user-attachments/assets/354c3582-1fbf-4b90-b425-3f419b575fc7/workflows/auto-assign.yml/badge.svg)
+![Proof HTML](https://github.com/user-attachments/assets/354c3582-1fbf-4b90-b425-3f419b575fc7/workflows/auto-assign.yml/badge.svg)
 
 # Welcome to your organization's demo respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
