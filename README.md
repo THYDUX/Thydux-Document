@@ -1,5 +1,4 @@
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
-
+![THYDUX](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)
 # THYDU𝕏
 This code designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
