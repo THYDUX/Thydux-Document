@@ -1,0 +1,53 @@
+name:
+
+on:
+
+Auto Assign
+
+issues:
+
+types:
+
+[opened]
+
+pull_request:
+
+types:
+
+[opened]
+
+jobs:
+
+run:
+
+runs-on:
+
+ubuntu-latest
+
+permissions:
+
+issues: write
+
+pull-requests:
+
+write
+
+steps:
+
+name:
+
+'Auto-assign issue'
+
+uses: pozil/auto-assign-issue@v1
+
+with:
+
+${{ secrets.GITHUB_TOKEN }}
+
+repo-token:
+
+assignees:
+
+THYDUX
+
+numOfAssignee: 1
