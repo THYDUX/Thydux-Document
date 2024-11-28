@@ -1,7 +1,8 @@
-![Auto Assign](https://github.com/user-attachments/assets/354c3582-1fbf-4b90-b425-3f419b575fc7/workflows/auto-assign.yml/badge.svg)
-![Proof HTML](https://github.com/user-attachments/assets/354c3582-1fbf-4b90-b425-3f419b575fc7/workflows/auto-assign.yml/badge.svg)
+![Auto Assign](https://github.com/THYDUX-COIN/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 
-# Welcome to your organization's demo respository
+![Proof HTML](https://github.com/THYDUX-COIN/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
+# THYDU𝕏
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
