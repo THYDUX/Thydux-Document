@@ -1,4 +1,6 @@
-![THYDUX](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)
+![Auto Assign](https://github.com/THYDUX-COIN/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+
+![Proof HTML](https://github.com/THYDUX-COIN/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 # THYDU𝕏
 This code designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
