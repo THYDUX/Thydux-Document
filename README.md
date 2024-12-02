@@ -87,4 +87,4 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 	
  •	GitHub Issues: [Submit an Issue]()
 
-Thank you for choosing Thydux—empowering smart trading and redefining digital finance! 🏦
+*Thank you for choosing Thydux—empowering smart trading and redefining digital finance! 🏦*
