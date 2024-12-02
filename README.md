@@ -21,7 +21,7 @@ Access our open-source blockchain explorer to track and verify transactions dire
         2.       Open-Source HTML Resources
 Thydux offers open-source HTML templates for seamless integration into your own projects. 
 
-• [HTML Integration](https://www.dropbox.com/scl/fi/3y3pqi63tvz2fpzxmi8x6/THYDUX-1.html?rlkey=bop6i7vires9itxtsoa90qlxg&st=xss3c8y1&dl=0)
+• [HTML Integration](content://com.google.android.apps.nbu.files.provider/2/1000029853)
 
 **GETTING STARTED**
 
