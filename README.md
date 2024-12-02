@@ -2,7 +2,7 @@
 
 Welcome to the official Thydux documentation repository! This repository provides comprehensive resources, guides, and API documentation to help users and developers maximize the potential of Thydux—a blockchain-focused platform for cryptocurrency trading and investments.
 
-Overview
+**OVERVEIW**
 
 Thydux is designed to revolutionize digital asset trading with cutting-edge tools and features:
 	•	Smart Trading Strategies: Leverage advanced algorithms to optimize trading decisions.
@@ -16,11 +16,12 @@ Features
 	1.	Blockchain Explorer
 Access our open-source blockchain explorer to track and verify transactions directly on the Thydux network.
 	•	[Thydux Explorer]()
-	2.	Open-Source HTML Resources
+	
+        2.       Open-Source HTML Resources
 Thydux offers open-source HTML templates for seamless integration into your own projects.
 	•	[HTML Integration](https://www.dropbox.com/scl/fi/3y3pqi63tvz2fpzxmi8x6/THYDUX-1.html?rlkey=bop6i7vires9itxtsoa90qlxg&st=xss3c8y1&dl=0)
 
-Getting Started
+**GETTING STARTED**
 
 If you’re new to Thydux, we recommend starting with the following resources:
 	•	Quick Start Guide: Set up Thydux in just a few steps.
@@ -48,7 +49,9 @@ The local server will host the documentation for offline use and development.
 Contributing
 
 We welcome contributions to improve Thydux documentation and tools. To contribute:
+
 	1.	Fork this repository.
+ 
 	2.	Create a new branch:
 
 git checkout -b update-docs
@@ -68,7 +71,7 @@ git push origin update-docs
 
 For more details, please review our Contributing Guidelines.
 
-License
+**LICENSE**
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
