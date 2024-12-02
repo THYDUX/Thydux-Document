@@ -14,10 +14,12 @@ In addition, this repository includes information on open-source HTML integratio
 **FEATURES:**
 
 	1.	Blockchain Explorer
-Access our open-source blockchain explorer to track and verify transactions directly on the Thydux network.  • [Thydux Explorer]()
+Access our open-source blockchain explorer to track and verify transactions directly on the Thydux network. 
+• [Thydux Explorer]()
 	
         2.       Open-Source HTML Resources
-Thydux offers open-source HTML templates for seamless integration into your own projects.  • [HTML Integration](https://www.dropbox.com/scl/fi/3y3pqi63tvz2fpzxmi8x6/THYDUX-1.html?rlkey=bop6i7vires9itxtsoa90qlxg&st=xss3c8y1&dl=0)
+Thydux offers open-source HTML templates for seamless integration into your own projects. 
+• [HTML Integration](https://www.dropbox.com/scl/fi/3y3pqi63tvz2fpzxmi8x6/THYDUX-1.html?rlkey=bop6i7vires9itxtsoa90qlxg&st=xss3c8y1&dl=0)
 
 **GETTING STARTED**
 
