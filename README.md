@@ -11,7 +11,7 @@ Thydux is designed to revolutionize digital asset trading with cutting-edge tool
 
 In addition, this repository includes information on open-source HTML integration and the Thydux Blockchain Explorer for transparency and detailed analytics.
 
-*FEATURES:**
+**FEATURES:**
 
 	1.	Blockchain Explorer
 Access our open-source blockchain explorer to track and verify transactions directly on the Thydux network.  • [Thydux Explorer]()
