@@ -85,6 +85,6 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 
  •	Email: support@thydux.com
 	
- •	GitHub Issues: [Submit an Issue]()
+ •	GitHub Issues: [Submit an Issue](https://github.com/THYDUX/Thydux-Document/issues/2)
 
 *Thank you for choosing Thydux—empowering smart trading and redefining digital finance! 🏦*
