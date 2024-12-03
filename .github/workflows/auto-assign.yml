@@ -1,53 +1,16 @@
-name:
+# Node rules:
+## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
 
-on:
+## Dependency directory
+## Commenting this out is preferred by some people, see
+## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
+node_modules
 
-Auto Assign
+# Book build output
+_book
 
-issues:
-
-types:
-
-[opened]
-
-pull_request:
-
-types:
-
-[opened]
-
-jobs:
-
-run:
-
-runs-on:
-
-ubuntu-latest
-
-permissions:
-
-issues: write
-
-pull-requests:
-
-write
-
-steps:
-
-name:
-
-'Auto-assign issue'
-
-uses: pozil/auto-assign-issue@v1
-
-with:
-
-${{ secrets.GITHUB_TOKEN }}
-
-repo-token:
-
-assignees:
-
-THYDUX
-
-numOfAssignee: 1
+# eBook build output
+*.epub
+*.mobi
+*.pdf
