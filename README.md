@@ -1,3 +1,4 @@
+![DUX](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
 **THYDUX DOCUMENT**
 
 Welcome to the official Thydux documentation repository! This repository provides comprehensive resources, guides, and API documentation to help users and developers maximize the potential of Thydux—a blockchain-focused platform for cryptocurrency trading and investments.
