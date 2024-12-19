@@ -1,0 +1,5 @@
+thydux-document/
+│
+├── index.html      # Your Thydux document as an HTML file
+├── styles.css      # Optional, your styles
+└── README.md       # Optional, for documentation or GitHub
