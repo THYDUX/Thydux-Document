@@ -1,0 +1,12 @@
+thydux-project/
+│
+├── src/
+│   ├── assets/
+│   ├── App.vue (or App.js)
+│   ├── main.js (or main.ts)
+│
+├── public/
+│   └── index.html
+├── package.json
+├── vite.config.js
+└── README.md
