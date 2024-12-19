@@ -1,0 +1,7 @@
+thydux-project/
+│
+├── index.html
+├── styles.css
+├── assets/
+│   └── (images, fonts, etc.)
+└── README.md
