@@ -1,3 +1,5 @@
+[![Unit Tests](https://github.com/bigdaz/Anki-Android/actions/workflows/tests_unit.yml/badge.svg)](https://github.com/bigdaz/Anki-Android/actions/workflows/tests_unit.yml)
+
 **THYDUX DOCUMENT**
 
 Welcome to the official Thydux documentation repository! This repository provides comprehensive resources, guides, and API documentation to help users and developers maximize the potential of Thydux—a blockchain-focused platform for cryptocurrency trading and investments.
