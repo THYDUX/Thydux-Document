@@ -40,4 +40,4 @@ If you have any questions or need support, feel free to reach out:
 - **Twitter**: [@Thydux](https://twitter.com/Thyduxcoin)
 - **LinkedIn**: [Thydux](https://www.linkedin.com/company/thydux)
 
-Thank you for choosing Thydux. Let’s revolutionize crypto trading and investments together! [THYDUX](github.com/THYDUX)
+Thank you for choosing Thydux. Let’s revolutionize crypto trading and investments together! [github.com/THYDUX](https://github.com/THYDUX)
