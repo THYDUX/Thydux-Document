@@ -38,7 +38,7 @@ Follow these steps to run the documentation or explore Thydux tools locally:
 
 Clone the Repository
 
-git clone https://github.com/Thydux/thydux-docs.git
+git clone https://github.com/THYDUX/Thydux-Explorer.git
 cd thydux-docs
 
 Install and Start
